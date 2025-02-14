@@ -48,6 +48,11 @@ php artisan serve
 ```
 API будет доступно по адресу `http://127.0.0.1:8000`
 
+### 7. Запуск swagger
+```bash
+php artisan l5-swagger:generate
+```
+
 ## Использование API
 
 ### Swagger-документация
